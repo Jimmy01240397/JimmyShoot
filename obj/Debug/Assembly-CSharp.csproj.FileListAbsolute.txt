@@ -1,0 +1,2 @@
+N:\資料\C語言編輯器\新文件\jimmy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+N:\資料\C語言編輯器\新文件\jimmy\obj\Debug\Assembly-CSharp.dll
